@@ -12,6 +12,7 @@ namespace directory
         static void Main(string[] args)
         {
             Console.WriteLine("Введите путь каталога, который необходимо обработать:");
+
             string mypath = Console.ReadLine();
             //String mypath = @"C:\Users\Serega\Desktop\1\student-2021-assignment-master\student-2021-assignment-master\src\Utrom's secrets";
 
